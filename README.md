@@ -6,13 +6,13 @@
   * Lemonde Inc.
 
 * When was the company incorporated?
- * Daniel Schreiber 
+   * Daniel Schreiber 
 * Who are the founders of the company?
- *  Daniel Schreiber and Shai Winiger 
+  *  Daniel Schreiber and Shai Winiger 
 * How did the idea for the company (or project) come about?
-  * Predatory Insurance Comnpanies 
+   * Predatory Insurance Comnpanies 
 * How is the company funded? How much funding have they received?
-  * Equity offerings and is even listed on the NYSE 
+   * Equity offerings and is even listed on the NYSE 
 
 ## Business Activities
 

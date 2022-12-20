@@ -3,6 +3,7 @@
 ## Overview and Origin
 
 * What is the name of the company?
+** Lemonde Inc.
 
 * When was the company incorporated?
 

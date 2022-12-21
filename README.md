@@ -39,6 +39,7 @@
 * What domain of the financial industry is the company in?
 
    * Insurtech
+   
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 
    * Heavy Investment in the Insurtech Industry investments in equity up to 15.4 billion in 2021.
@@ -54,7 +55,7 @@
   * The impact of this company so far is that many low-middle class income earners are now able to have Car, Homeowners, Renters, Life and Pet insurance so an extremely afford able price.
   
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
+![Lemonade_Reviews](Lemonade_Reviews.png)
   * Customer Satisfaction and the ability to raise capital. In these metrics, they do significantly well condisering the Lemonade website has hundreds of positive company reviews. In addition, the company's total stockholder's equity increased nearly 83%.
   
 * How is your company performing relative to competitors in the same domain?

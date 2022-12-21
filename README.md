@@ -63,8 +63,16 @@
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+  *  If I were to advise Lemonade to do anything it would be the fact that they need to sell themselves more. I had no idea a company like this existed but as I'm watching sports I am exposed to GEICO, PROGRESSIVE and STATEFARM constantly. So what I would say is that Lemonade needs to gain further exposure to middle to lower class Americans in order to sell their product. As far as the products go, I think their on the right track to compete with the big insurance companies liek the ones previosuly mentioned because they offer pretty much every insurnace the typical consumer buys. 
+
 * Why do you think that offering this product or service would benefit the company?
+
+  * I think a big marketing campaign would benefit the company because it seems that the company's services and products they want to offer are all out their, and now they need to concern themselves with turning a profit in the next 5-10 years. So I believe if they attach big names and run these commercials on social media outlets, during sporting events and etc. they should be able to get the exposure they need.  
 
 * What technologies would this additional product or service utilize?
 
+  * Improvement of AI and Data usage in order to find the cheapest and most quality way to reach the lower to middle class population. 
+
 * Why are these technologies appropriate for your solution?
+
+  * These technologies are appropriate for my solution because the company needs to tunr a profit with all of these R&D expenses going in, and that means if they are going to start a marketing campaign on a tight budget, they needs to figure out using Big Data where they can scrape every penny. 

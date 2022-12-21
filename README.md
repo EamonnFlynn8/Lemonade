@@ -17,12 +17,19 @@
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
+
   * Creating the best possible insurance tethered to the indivual and making insurance a social good instead of the "necessary evil" as said in thier mission statement.
+  
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+
   * Lower Income individuals but not limited to everyone. They seem to offer things for even people of higher incomes, for instance, in their car insurance offerings they offer discounts to individuals with electric vehicles which are typically a higher income item. 
+  
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
    * One thing that this company can offer that their competeitors cannot is that an AI bot reviews your policy and returns the approval in as little as ninety seconds. They also are fast and do not require aany paperwork when it comes to paying claims. 
+   
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+
    * Lemonade uses AI and Big Data  to issue insurance policies. It categorizes customers in relevant risk groups and quotes a premium accordingly. Over time, the algorithms get better at grouping users that share a similar risk profile. As more data accumulates, recursive risk patterns emerge which enabling more precise grouping.
  
 ## Landscape

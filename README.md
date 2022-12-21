@@ -42,6 +42,8 @@
    
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 
+![Global-InsurTech-H1-2021](Global-InsurTech-H1-2021.png)
+
    * Heavy Investment in the Insurtech Industry investments in equity up to 15.4 billion in 2021.
    
 * What are the other major companies in this domain?

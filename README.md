@@ -1,7 +1,7 @@
 # Lemonade
 
 ## Overview and Origin
-
+![Lemonade](Lemonade.png)
 * What is the name of the company?
   * Lemonde Inc.
 
